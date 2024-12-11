@@ -11,5 +11,7 @@ We will post resources on the repository
 - Week 1:
 Quick introduction to Python and useful Python modules such as NumPy, MatPlotLib, pandas & get familiar to jupyter notebooks etc.
 
+Recap of Basic ml techiniques such as regression, classification,and others.
+
 - Weeks 2 and 3:
 Intro to Neural Networks, Learning theoritical aspects of RNN & CNN in depth, Getting familiar to related Tensforflow, Open-CV libraries

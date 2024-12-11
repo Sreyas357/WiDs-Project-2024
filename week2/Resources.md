@@ -8,3 +8,6 @@ https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 https://youtu.be/tpCFfeUEGs8?feature=shared
 
 # Some Notes on Neural Networks, RNN & CNN are there in Week2 Repo
+
+Notes: lectures 3-8 in below website, where 1,2,9,10 are optional
+

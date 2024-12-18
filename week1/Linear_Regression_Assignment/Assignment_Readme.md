@@ -17,7 +17,7 @@ solution. Ideally, these should be very similar to each other
 
 ### Evaluation
 
-Grading is done based on your accuracy i.e, loss
+Grading is done based on your accuracy i.e, loss for various learning rates
 
 ## Q2
 

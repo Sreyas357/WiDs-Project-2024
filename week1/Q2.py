@@ -171,6 +171,5 @@ if __name__ == '__main__':
     #     l2_test_loss = float(l2_loss(transformed_X_test,Y_test,w_closed))
     #     print(degree, l2_loss_train, l2_test_loss)
 
-    optimal_degree = 3
 
     print("optimal degree", optimal_degree)

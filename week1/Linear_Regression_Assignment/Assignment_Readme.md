@@ -1,6 +1,7 @@
 # Readme for Assignment-1
 
 Implement the following using numpy, pandas and matplotlib (a kind of practice for your Basic Python)
+
 Can use pytorch if you want !
 
 ## Q1

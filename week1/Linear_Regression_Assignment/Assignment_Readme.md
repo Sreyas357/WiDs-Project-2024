@@ -15,6 +15,10 @@ Try using various learning rates, also plot the loss vs iterations graphs for va
 As a sanity check, you can compare the weights obtained after gradient descent and those given by closed-form
 solution. Ideally, these should be very similar to each other
 
+### Evaluation
+
+Grading is done based on your accuracy i.e, loss
+
 ## Q2
 
 You have to use basis functions to try and improve the model’s fit from Q1, the loss
@@ -24,3 +28,6 @@ So trasform it using a Polynomial Basis Function, try it for various degrees and
 
 You are given the template code in this part also, so you just need to link how things are done and complete the code snippets
 
+### Evaluation
+
+Grading is done based on accuracy for various degrees and printing out the correct optimal degree

@@ -10,7 +10,7 @@ You have to implement Basic Linear Regression with the template given
 
 So complete various functions like gradient_descent, train_model, the loss function .. and understand how a Basic Linear Regressor looks like
 
-Try using various learning rates, also plot the error vs iterations graphs for various learning rates
+Try using various learning rates, also plot the loss vs iterations graphs for various learning rates
 
 As a sanity check, you can compare the weights obtained after gradient descent and those given by closed-form
 solution. Ideally, these should be very similar to each other

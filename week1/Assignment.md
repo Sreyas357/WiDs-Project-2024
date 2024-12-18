@@ -1,7 +1,7 @@
 ## Q1
 
 You have to implement Basic Linear Regression with the template given
-So complete various functions like gradient_descent, train_model, the loss function and etc... and understand how a Basic Linear Regression looks like
+So complete various functions like gradient_descent, train_model, the loss function .. and understand how a Basic Linear Regressor looks like
 
 Try using various learning rates, also plot the error vs iterations graphs for various learning rates
 

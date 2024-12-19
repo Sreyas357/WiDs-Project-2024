@@ -24,7 +24,9 @@ Grading is done based on your accuracy i.e, loss for various learning rates
 You have to use basis functions to try and improve the model’s fit from Q1, the loss
 for the second test comes to be huge. But if you try to plot the data points, you can see some polynomial resemblances
 
-So trasform it using a Polynomial Basis Function, try it for various degrees and get the optimal degree for the 2nd dataset
+So trasform it using a Polynomial Basis Function, try it for various degrees(1-10) and get the optimal degree for the 2nd dataset.
+
+
 
 You are given the template code in this part also, so you just need to link how things are done and complete the code snippets
 

@@ -5,7 +5,7 @@ As the project name suggests, we are going to make a Emotion Recognitor for a la
 
 This is just a very brief intro to what we are going to implement in whole
 
-So please go through the paper to get a clear idea to start off the project
+So please go through the paper (uploaded in the repo) to get a clear idea regarding the project
 
 ## Duration & Remarks
 

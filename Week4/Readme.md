@@ -7,8 +7,10 @@ This is just a very brief intro to what we are going to implement in whole
 
 So please go through the paper to get a clear idea to start off the project
 
-## Duration
+## Duration & Remarks
 
-After the read, please start the Project !! 
+After the read, please start the Project !!
 
-This will be for this final 3 weeks
+We will provide the final format of the files to be submitted within 2 days, specifying the contents required for each file.
+
+You will be doing this for 2 weeks (the final 2 weeks).

@@ -5,4 +5,10 @@ As the project name suggests, we are going to make a Emotion Recognitor for a la
 
 This is just a very brief intro to what we are going to implement in whole
 
-So please go through the paper to get the clear idea to start off the project
+So please go through the paper to get a clear idea to start off the project
+
+## Duration
+
+After the read, please start the Project !! 
+
+This will be for this final 3 weeks

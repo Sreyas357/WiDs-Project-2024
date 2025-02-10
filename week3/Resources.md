@@ -14,7 +14,9 @@ https://youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL&feature=sha
 https://youtu.be/tPYj3fFJGjk?feature=shared
 
 
+# Deliverables
 
+Mentioned in the Assignment Statement !
 
 
 

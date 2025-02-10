@@ -15,3 +15,16 @@ Recap of Basic ml techiniques such as regression, classification,and others.
 
 - Weeks 2 and 3:
 Intro to Neural Networks, Learning theoritical aspects of RNN & CNN in depth, Getting familiar to related Tensforflow, Open-CV libraries
+
+## Submission Format
+
+For the Code Submission please submit a zip file containing files in this structure 
+
+Final_Submission/
+├── report.pdf
+├── Part-1
+     └── code snippets regarding Assignment 1
+├── Part-2
+    └── code snippets regarding Assignment 2
+└── Current_Status
+    └── code snippets regarding the research paper completed so far

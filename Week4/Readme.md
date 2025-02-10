@@ -14,6 +14,14 @@ So please go through the paper (uploaded in the repo) to get a clear idea regard
 
 After the read, please start the Project !!
 
-We will provide the final format of the files to be submitted within 2 days, specifying the contents required for each file.
-
 You will be doing this for 2 weeks (the final 2 weeks).
+
+## Deliverables
+
+- Report is a must, Contents of the report is as follows
+
+This report must include the 'Main Idea' & 'Correctness' and 'Procedure' (large video sets to frames, design for corresponding model and etc.. based on the paper)
+
+- Work until the deadline (Current Status)
+
+Code snippets related to implementation of the Research Paper

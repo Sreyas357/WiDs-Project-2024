@@ -16,7 +16,7 @@ Recap of Basic ml techiniques such as regression, classification,and others.
 - Weeks 2 and 3:
 Intro to Neural Networks, Learning theoritical aspects of RNN & CNN in depth, Getting familiar to related Tensforflow, Open-CV libraries
 
--Week 4:
+- Week 4:
 Implementing the Research Paper in getting an Video Emotion Detector !!
 
 ## Submission Format

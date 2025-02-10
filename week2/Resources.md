@@ -19,3 +19,7 @@ https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 
 https://www.youtube.com/watch?v=vo_fUOk-IKk&list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa
 
+
+# Deliverables
+
+Mentioned in the Assignment Statement !

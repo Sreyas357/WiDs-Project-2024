@@ -17,3 +17,7 @@ Notes: lectures 3-8 in below website, where 1,2,9,10 are optional
 
 https://www.cse.iitb.ac.in/~swaprava/cs217240_2024.html
 
+
+# Deliverables
+
+Mentioned in the Assignment Statement !
